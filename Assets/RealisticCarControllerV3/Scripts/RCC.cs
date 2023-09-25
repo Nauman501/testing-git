@@ -6,6 +6,7 @@
 // Buğra Özdoğanlar
 //
 //----------------------------------------------
+//test gitignore
 
 using System.Collections;
 using System.Collections.Generic;
